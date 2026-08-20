@@ -6,30 +6,30 @@ An interactive Power BI dashboard analyzing company-wide sales, profit, cost (CO
 🔑 Features<br>
 KPI Cards — Total Profit (13.02M) & Total Sales (92.31M)<br>
 COGS by Country — Cost distribution across US, Canada, France, Germany, Mexico<br>
-Product by Segment — Customer mix across Government, Enterprise, Midmarket, Small Business, Channel Partners
-Profit by Month — Seasonal trend with drill-down tooltips
-Sales by Country — Country-wise revenue ranking
-Slicers — Year dropdown (2013, 2014) and Quarter buttons
-💡 Key Insights
-Profit margin is only ~14% of sales — cost structure needs review
-US drives ~80% of total sales — high market concentration risk
-COGS is spread evenly across countries despite uneven sales — smaller markets are cost-inefficient
-Government segment = 43% of product mix — exposes revenue to budget/policy cycles
-Profit peaks in Q4 (Oct–Dec) — likely tied to fiscal year-end spending
-🎯 Purpose
+Product by Segment — Customer mix across Government, Enterprise, Midmarket, Small Business, Channel Partners<br>
+Profit by Month — Seasonal trend with drill-down tooltips<br>
+Sales by Country — Country-wise revenue ranking<br>
+Slicers — Year dropdown (2013, 2014) and Quarter buttons<br><br>
+💡 Key Insights<br>
+Profit margin is only ~14% of sales — cost structure needs review<br>
+US drives ~80% of total sales — high market concentration risk<br>
+COGS is spread evenly across countries despite uneven sales — smaller markets are cost-inefficient<br>
+Government segment = 43% of product mix — exposes revenue to budget/policy cycles<br>
+Profit peaks in Q4 (Oct–Dec) — likely tied to fiscal year-end spending<br><br>
+🎯 Purpose<br>
 
-Enables quick, self-service answers to:
+Enables quick, self-service answers to:<br>
 
-How profitable is the business, and where?
-Which markets/segments drive or drag performance?
-When does the business perform best/worst?
-📈 Business Value
-Faster, data-driven decisions without manual reporting
-Identifies risk concentration (market + segment)
-Supports cash-flow and seasonal planning
-Executive-ready snapshot for reviews
-🛠️ Tools Used
+How profitable is the business, and where?<br>
+Which markets/segments drive or drag performance?<br>
+When does the business perform best/worst?<br>
+📈 Business Value<br>
+Faster, data-driven decisions without manual reporting<br>
+Identifies risk concentration (market + segment)<br>
+Supports cash-flow and seasonal planning<br>
+Executive-ready snapshot for reviews<br><br>
+🛠️ Tools Used<br>
 
 Power BI · DAX · Data Modeling · Interactive Visualization
 
-Content
+Content<br>
