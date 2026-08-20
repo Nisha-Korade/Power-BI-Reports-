@@ -35,7 +35,7 @@ Helps prioritize artist partnerships based on cross-genre popularity<br><br>
 🛠️ Tools Used<br>
 
 Power BI · DAX · Data Modeling · Interactive Visualization<br><br>
-<a href="https://github.com/Nisha-Korade/Power-BI-Reports-/blob/main/Music%20streaming%20Table.xlsx">Click for Music Stream Dataset</a>
+<a href="https://github.com/Nisha-Korade/Power-BI-Reports-/blob/main/Music%20streaming%20Table.xlsx">Click for Music Stream Dataset</a><br>
 <a href="https://github.com/Nisha-Korade/Power-BI-Reports-/blob/main/Music%20Streaming%20Analytics%20Dashboard.pbix">Click for Music Stream Report View</a>
 
 
