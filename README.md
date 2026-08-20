@@ -1,11 +1,11 @@
-Financial DataSet Dashboard — Power BI
-📊 Overview
+Financial DataSet Dashboard — Power BI<br><br>
+<p>📊 Overview<br>
 
-An interactive Power BI dashboard analyzing company-wide sales, profit, cost (COGS), and customer segments across 5 countries for 2013–2014, with Year (dropdown) and Quarter-level filtering.
+An interactive Power BI dashboard analyzing company-wide sales, profit, cost (COGS), and customer segments across 5 countries for 2013–2014, with Year (dropdown) and Quarter-level filtering.<br><br>
 
-🔑 Features
-KPI Cards — Total Profit (13.02M) & Total Sales (92.31M)
-COGS by Country — Cost distribution across US, Canada, France, Germany, Mexico
+🔑 Features<br>
+KPI Cards — Total Profit (13.02M) & Total Sales (92.31M)<br>
+COGS by Country — Cost distribution across US, Canada, France, Germany, Mexico<br>
 Product by Segment — Customer mix across Government, Enterprise, Midmarket, Small Business, Channel Partners
 Profit by Month — Seasonal trend with drill-down tooltips
 Sales by Country — Country-wise revenue ranking
